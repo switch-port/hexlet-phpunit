@@ -5,8 +5,6 @@ namespace Hexlet\Phpunit\Tests;
 use PHPUnit\Framework\TestCase;
 use function Hexlet\Phpunit\Utils\reverseString;
 
-// класс UtilsTest наследует класс TestCase
-// имя класса совпадает с именем файла
 class UtilsTest extends TestCase
 {
     // Метод, функция определенная внутри класса
